@@ -1,0 +1,20 @@
+.container{
+    height: 829px;
+    width: 607px;
+    background-color: deepskyblue;
+    margin: 250px;
+}
+
+.cityInput{
+    height: 30px;
+    width: 250px;
+    margin: 40px;
+    background-color: white;
+}
+
+.search-icon{
+    height: 30px;
+    width: 20px;
+    margin-left: 310px;
+    margin-top: -66px;
+}
